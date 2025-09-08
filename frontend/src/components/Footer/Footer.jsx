@@ -12,7 +12,7 @@
 //     >
 //       <h5 className="mb-1 fw-bold">CollabBoard Limited</h5>
 //       <p className="mb-1">
-//         Credits: Shivanshu Gupta, Shivanand Pal
+//         Credits: Shivanshu Gupta, Sankalp Gupta, Raj Gawakwad
 //       </p>
 //       <div>
 //         <a
@@ -66,30 +66,37 @@ const About = () => {
           <div style={{ display: "flex", flexDirection: "column", gap: "24px" }}>
             {/* <div>
               <h2 style={{ fontSize: "24px", fontWeight: "600", marginBottom: "10px" }}>👨‍💻 Developed By</h2>
-              <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Shivanand Pal</span> — CSE undergrad who likes building stuffs</p>
               <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Shivanshu Gupta</span> — CSE undergrad </p>
+              <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Sankalp Gupta</span> — CSE undergrad </p>
+              <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Raj Gayakwad</span> — CSE undergrad </p>
             </div> */}
             <div>
               <h2 style={{ fontSize: "24px", fontWeight: "600", marginBottom: "10px" }}>📫 Developed By :</h2>
               <div style={{ display: "flex", flexDirection: "column", gap: "12px", fontSize: "20px" }}>
                 <div style={{ display: "flex", gap: "20px" }}>
-                  <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Shivanshu Gupta</span> </p>
-                  <a href="https://github.com/shivanandpal91" target="_blank" rel="noreferrer" style={{ color: "#fff" }}><FaGithub /></a>
-                  <a href="https://linkedin.com/in/shivanandpal91/" target="_blank" rel="noreferrer" style={{ color: "#60a5fa" }}><FaLinkedin /></a>
-                  <a href="mailto:externalemail2024@gmail.com" style={{ color: "#f87171" }}><FaEnvelope /></a>
-                </div>
-                <div style={{ display: "flex", gap: "20px" }}>
-                <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Raj Gayakwad</span></p>
+                <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Shivanshu Gupta</span></p>
                   <a href="https://github.com/shiva-9557" target="_blank" rel="noreferrer" style={{ color: "#fff" }}><FaGithub /></a>
                   <a href="https://www.linkedin.com/in/shivanshu2807gupta/" target="_blank" rel="noreferrer" style={{ color: "#60a5fa" }}><FaLinkedin /></a>
                   <a href="mailto:shivanshu.gupta.3250@gmail.com" style={{ color: "#f87171" }}><FaEnvelope /></a>
+                </div>
+                <div style={{ display: "flex", gap: "20px" }}>
+                <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Sankalp Gupta</span></p>
+                  <a href="https://github.com/Sankalp85" target="_blank" rel="noreferrer" style={{ color: "#fff" }}><FaGithub /></a>
+                  <a href="https://www.linkedin.com/in/sankalpgupta25/" target="_blank" rel="noreferrer" style={{ color: "#60a5fa" }}><FaLinkedin /></a>
+                  <a href="mailto:sankalp.gupta.3232@gmail.com" style={{ color: "#f87171" }}><FaEnvelope /></a>
+                </div>
+                <div style={{ display: "flex", gap: "20px" }}>
+                <p style={{ fontSize: "14px", color: "#d1d5db" }}><span style={{ color: "#34d399", fontWeight: "500" }}>Raj Gayakwad</span></p>
+                  <a href="https://github.com/UnknownRG" target="_blank" rel="noreferrer" style={{ color: "#fff" }}><FaGithub /></a>
+                  <a href="https://www.linkedin.com/in/raj-gayakwad17/" target="_blank" rel="noreferrer" style={{ color: "#60a5fa" }}><FaLinkedin /></a>
+                  <a href="mailto:raj.gayakwad.3197@gmail.com" style={{ color: "#f87171" }}><FaEnvelope /></a>
                 </div>
               </div>
             </div>
           </div>
         </div>
         <p style={{ fontSize: "12px", color: "#9ca3af", textAlign: "center", marginTop: "40px" }}>
-          © {new Date().getFullYear()} <span style={{ color: "#fff", fontWeight: "500" }}>Shivanshu Gupta & Raj Gayakwad</span>. All rights reserved.
+          © {new Date().getFullYear()} <span style={{ color: "#fff", fontWeight: "500" }}>Shivanshu Gupta & Sankalp Gupta & Raj Gayakwad</span>. All rights reserved.
         </p>
       </div>
     </div>
